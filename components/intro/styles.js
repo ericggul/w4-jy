@@ -12,6 +12,7 @@ export const Container = styled.div`
 
 export const Col = styled.div`
   height: 100vh;
+
   width: 3.5vw;
 
   display: flex;
